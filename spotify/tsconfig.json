@@ -25,7 +25,7 @@
         "src/app/modules/*"
       ],
       "@shared/*":[
-        "src/app/sahred/*"
+        "src/app/shared/*"
       ],
     },
     "lib": [
